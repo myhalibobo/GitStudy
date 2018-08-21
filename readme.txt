@@ -2,4 +2,4 @@
 add line 
 what is GPL
 
-creating a new branch is quick1
+creating a new branch is quick1 and simple
