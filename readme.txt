@@ -3,3 +3,5 @@ add line
 what is GPL
 
 creating a new branch is merge
+
+i solved bug .
